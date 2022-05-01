@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="be.domino.AlgoritmeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-05-01T14:24:07" hostname="DESKTOP-6GEJJ89" time="0.065">
+  <properties/>
+  <testcase name="ControleerAlsTweeStenenMetEenPassendeNummersGeplaatstKunnenWorden_verschillendeKleur_IsFalse()" classname="be.domino.AlgoritmeTest" time="0.052"/>
+  <testcase name="ControleerAlsTweeStenenMetNietPassendeNummersGeplaatstKunnenWorden_IsFalse()" classname="be.domino.AlgoritmeTest" time="0.002"/>
+  <testcase name="ControleerAlsTweeStenenMetEenPassendeNummersGeplaatstKunnenWorden_dezelfdeKleur_IsFalse()" classname="be.domino.AlgoritmeTest" time="0.001"/>
+  <testcase name="ControleerAlsDeSteenFliptOmDeJuisteUitkomstTeBekomen_IsTrue()" classname="be.domino.AlgoritmeTest" time="0.001"/>
+  <testcase name="ControleerAlsTweeStenenMetVerschillendeKleurGeplaatstKunnenWorden_IsTrue()" classname="be.domino.AlgoritmeTest" time="0.001"/>
+  <testcase name="ControleerAlsTweeStenenMetDezelfdeKleurGeplaatstKunnenWorden_IsFalse()" classname="be.domino.AlgoritmeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

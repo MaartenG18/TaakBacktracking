@@ -1,0 +1,2 @@
+be/domino/AlgoritmeTest.java
+ be.domino.AlgoritmeTest
