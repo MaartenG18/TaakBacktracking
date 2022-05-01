@@ -1,6 +1,6 @@
+be/domino/Steen.java
+ be.domino.Steen
 be/domino/Algoritme.java
  be.domino.Algoritme
 be/domino/Main.java
  be.domino.Main
-be/domino/Steen.java
- be.domino.Steen
